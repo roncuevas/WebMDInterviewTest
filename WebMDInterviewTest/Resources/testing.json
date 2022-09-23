@@ -1,0 +1,15 @@
+{
+    "items": [
+      {
+        "title" : "Biotin Can Distort Lab Tests",
+        "description" : "The FDA is warning that high doses of vitamin B7, or biotin, in dietary supplements can interfere with hundreds of common lab tests",
+        "image_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SalmonellaNIAID.jpg/250px-SalmonellaNIAID.jpg",
+        "detail" : "In some cases, extra biotin causes falsely high results on tests. In others, it causes the results to read as falsely low. Tzhat’s true with some ways to detect a protein called troponin, which rises after heart muscle has been damaged."
+      },
+      {
+        "title" : "Sitting May Harm Health",
+        "description" : "The studies just keep coming. Sitting our life away, it seems, may be very bad for our health and even our life expectancy.",
+        "detail" : "The new studies add even more weight to earlier research suggesting that too much sitting is bad -- even if you get regular exercise.  Experts say they still don't know for sure which comes first. Does too much sitting trigger poor health, or is it the other way around?"
+      }
+    ]
+}
